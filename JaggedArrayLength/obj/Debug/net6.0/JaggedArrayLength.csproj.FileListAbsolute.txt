@@ -1,0 +1,15 @@
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\bin\Debug\net6.0\JaggedArrayLength.exe
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\bin\Debug\net6.0\JaggedArrayLength.deps.json
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\bin\Debug\net6.0\JaggedArrayLength.runtimeconfig.json
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\bin\Debug\net6.0\JaggedArrayLength.dll
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\bin\Debug\net6.0\ref\JaggedArrayLength.dll
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\bin\Debug\net6.0\JaggedArrayLength.pdb
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.csproj.AssemblyReference.cache
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.AssemblyInfoInputs.cache
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.AssemblyInfo.cs
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.csproj.CoreCompileInputs.cache
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.dll
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\ref\JaggedArrayLength.dll
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.pdb
+C:\Users\Fito\Documents\GitHub\C-Sharp\JaggedArrayLength\obj\Debug\net6.0\JaggedArrayLength.genruntimeconfig.cache
